@@ -8,12 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://AmeliaDominguez.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Post-0</title>
+      <link>https://AmeliaDominguez.github.io/docs/post-0/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://AmeliaDominguez.github.io/docs/post-0/</guid>
+      <description>Contenido de mi Post 1 con Hugo.</description>
+    </item>
+    
+    <item>
       <title>Post-01</title>
       <link>https://AmeliaDominguez.github.io/docs/post-1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://AmeliaDominguez.github.io/docs/post-1/</guid>
-      <description>Contenido de mi Post 1 con Hugo.</description>
+      <description>Experimentación analoga/digital.</description>
     </item>
     
     <item>
@@ -22,7 +31,7 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://AmeliaDominguez.github.io/docs/post-2/</guid>
-      <description>Experimentación analoga/digital.</description>
+      <description>Experimentación analoga/digital. Aproximación a Keyshot</description>
     </item>
     
     <item>
@@ -31,6 +40,15 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://AmeliaDominguez.github.io/docs/post-3/</guid>
+      <description>Experimentación analoga/digital. Aproximación a Keyshot</description>
+    </item>
+    
+    <item>
+      <title>Post-04</title>
+      <link>https://AmeliaDominguez.github.io/docs/post-4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://AmeliaDominguez.github.io/docs/post-4/</guid>
       <description>Experimentación analoga/digital. Aproximación a Keyshot</description>
     </item>
     
