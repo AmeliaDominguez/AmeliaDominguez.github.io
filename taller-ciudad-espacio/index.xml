@@ -17,16 +17,7 @@
     </item>
     
     <item>
-      <title>Ejemplos Markdown</title>
-      <link>https://AmeliaDominguez.github.io/taller-ciudad-espacio/docs/markdown/</link>
-      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
-      
-      <guid>https://AmeliaDominguez.github.io/taller-ciudad-espacio/docs/markdown/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Post-0</title>
+      <title>1- Propuesta Temática</title>
       <link>https://AmeliaDominguez.github.io/taller-ciudad-espacio/docs/post-0/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
@@ -35,25 +26,25 @@
     </item>
     
     <item>
-      <title>Post-1</title>
+      <title>2- Exploracion Análoga</title>
       <link>https://AmeliaDominguez.github.io/taller-ciudad-espacio/docs/post-1/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
       <guid>https://AmeliaDominguez.github.io/taller-ciudad-espacio/docs/post-1/</guid>
-      <description>Exploración problematicas/creativas.</description>
+      <description>Desarrollo creativo de sistemas y propuestas.</description>
     </item>
     
     <item>
-      <title>Post-2</title>
+      <title>3- Valor Endogeno</title>
       <link>https://AmeliaDominguez.github.io/taller-ciudad-espacio/docs/post-2/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
       <guid>https://AmeliaDominguez.github.io/taller-ciudad-espacio/docs/post-2/</guid>
-      <description>Valor Endogeno</description>
+      <description>Propuesta de valor y sistemas del proyecto.</description>
     </item>
     
     <item>
-      <title>Post-3</title>
+      <title>4-Actores y Sistema </title>
       <link>https://AmeliaDominguez.github.io/taller-ciudad-espacio/docs/post-3/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
@@ -62,21 +53,30 @@
     </item>
     
     <item>
-      <title>Post-4</title>
+      <title>5- Modelos Propuesta</title>
       <link>https://AmeliaDominguez.github.io/taller-ciudad-espacio/docs/post-4/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
       <guid>https://AmeliaDominguez.github.io/taller-ciudad-espacio/docs/post-4/</guid>
-      <description>Aproximaciones 3D</description>
+      <description>Aproximaciones al modelo final del proyecto.</description>
     </item>
     
     <item>
-      <title>Post-5</title>
+      <title>6- Propuesta MIDTERM</title>
       <link>https://AmeliaDominguez.github.io/taller-ciudad-espacio/docs/post-5/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
       <guid>https://AmeliaDominguez.github.io/taller-ciudad-espacio/docs/post-5/</guid>
-      <description>MIDTERM</description>
+      <description>PRESENTACIÓN MIDTERM</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos Markdown</title>
+      <link>https://AmeliaDominguez.github.io/taller-ciudad-espacio/docs/markdown/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://AmeliaDominguez.github.io/taller-ciudad-espacio/docs/markdown/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
   </channel>
